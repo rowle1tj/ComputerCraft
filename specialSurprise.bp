@@ -1,0 +1,1736 @@
+{
+  block_data = {
+    {
+      [ 0 ] = {
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 8 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 8 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 3 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 4 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 8 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 3 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 4 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 8 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 3 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 4 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 8 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 3 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 4 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 8 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 3 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 4 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 8 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 2 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 3 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 4 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 8 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 2 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 3 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 4 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 8 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 2 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 3 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 4 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 8 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 2 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 3 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 9 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 10 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 11 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 23 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 23 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 23 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 23 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 5 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 6 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 7 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 23 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 24 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 23 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 24 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 23 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 24 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 12 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 14 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 22 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 23 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 13 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 21 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 15 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 16 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 0,
+        },
+      },
+    },
+    {
+      [ 0 ] = {
+        [ 17 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 18 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 19 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+        [ 20 ] = {
+          name = "minecraft:wool",
+          metadata = 15,
+        },
+      },
+    },
+  },
+  quantities = {
+    [ "minecraft:wool" ] = 403,
+  },
+  dimensions = {
+    depth = 25,
+    height = 28,
+    width = 1,
+  },
+}

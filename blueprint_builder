@@ -1,0 +1,126 @@
+-- take the filename from std.in
+local tArgs = { ... }
+if #tArgs < 1 then
+  print("not enough args")
+  return
+end
+
+local bpFileName = tArgs[1]
+
+os.loadAPI("utils/mv")
+local directions = mv.getDirections()
+
+bpFile = fs.open("/bps/" .. bpFileName, "r")
+blueprint = textutils.unserialise(bpFile.readAll())
+bpFile.close()
+
+function findAndPlaceBlock(h, w, d)
+  searchBlock = blueprint.block_data[h][w][d]
+  for i=1,16 do
+    data = turtle.getItemDetail(i)
+    if data then
+      if data.name == searchBlock.name then
+        if data.damage == searchBlock.metadata then
+          turtle.select(i)
+          turtle.placeDown()
+          turtle.select(1)
+          return 0
+        end
+      end
+    end
+  end
+end
+
+function needsToPlaceBlock(h,w,d)
+  if not blueprint.block_data[h] then
+    return false
+  end
+  if not blueprint.block_data[h][w] then
+    return false
+  end
+  if not blueprint.block_data[h][w][d] then
+    return false
+  end
+  return true
+end
+
+function placeBlock(h, w, d)
+  if not needsToPlaceBlock(h,w,d) then
+    return
+  end
+  
+  findAndPlaceBlock(h,w,d)
+end
+
+mv.moveUp()
+mv.moveForward()
+
+local turnLeft = false
+height = blueprint.dimensions.height
+width = blueprint.dimensions.width
+depth = blueprint.dimensions.depth
+
+for h=1, height do
+  for w=1, width do 
+    local skipW = true
+    for td=1, depth do
+      if needsToPlaceBlock(mv.getLocDelta().z,mv.getLocDelta().x,td) then
+        skipW = false
+      end
+    end
+  
+    if not skipW then
+      for d=1, depth do
+        placeBlock(mv.getLocDelta().z, mv.getLocDelta().x, mv.getLocDelta().y)
+        if d < depth then
+          mv.moveForward()
+        end
+      end
+    end
+      if w < width then
+        if turnLeft then
+          mv.turnLeft()
+          mv.moveForward()
+          if not skipW then
+            mv.turnLeft()
+          else
+            mv.turnRight()
+            turnLeft = not turnLeft
+          end
+        else
+          mv.turnRight()
+          mv.moveForward()
+          if not skipW then
+            mv.turnRight()
+          else
+            mv.turnLeft()
+            turnLeft = not turnLeft
+          end
+        end
+        turnLeft = not turnLeft
+      else
+        if skipW then
+          turnLeft = not turnLeft
+        else
+          mv.turnRight()
+          mv.turnRight()
+        end
+        
+      end
+  end
+  if h < height then
+    mv.moveUp()
+  end
+end
+
+mv.faceDirection(directions.BACK)
+while mv.getLocDelta().y ~= 0 do
+  mv.moveForward()
+end
+mv.turnRight()
+while mv.getLocDelta().x ~= 0 do
+  mv.moveForward()
+end
+while mv.getLocDelta().z ~= 0 do
+  mv.moveDown()
+end

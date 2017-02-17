@@ -1,0 +1,98 @@
+os.loadAPI("utils/mv")
+local directions = mv.getDirections()
+
+height = 15
+width = 20
+depth = 18
+
+bpFilename = "scs16_3.bp"
+
+local blueprint = {
+  ["dimensions"] = {
+    ["height"] = height,
+    ["width"] = width,
+    ["depth"] = depth
+  },
+  ["quantities"] = {},
+  ["block_data"] = {}
+}
+
+function addBlockData(h, w, d, data)
+  if not blueprint.block_data[h] then
+    blueprint.block_data[h] = {}
+  end
+  if not blueprint.block_data[h][w] then
+    blueprint.block_data[h][w] = {}
+  end
+  
+  blueprint.block_data[h][w][d] = data
+
+  local qkey = data.name
+  if not blueprint.quantities[qkey] then
+    blueprint.quantities[qkey] = 0
+  end
+  
+  blueprint.quantities[qkey] = blueprint.quantities[qkey] + 1
+end
+
+for h=0, height-1 do
+  mv.moveUp()
+end
+
+mv.moveForward()
+
+local turnLeft = false
+
+for h=1, height do
+  for w=1, width do
+    for d=1, depth do
+      success, data = turtle.inspectDown()
+      if success then
+        addBlockData(mv.getLocDelta().z, mv.getLocDelta().x, mv.getLocDelta().y, data)
+      end
+      turtle.digDown()
+      
+      if d < depth then
+        mv.moveForward()
+      end
+    end
+    if w < width then
+    if turnLeft then
+      mv.turnLeft()
+      mv.moveForward()
+      mv.turnLeft()
+    else
+      mv.turnRight()
+      mv.moveForward()
+      mv.turnRight()
+    end
+    turnLeft = not turnLeft   
+    else 
+      mv.turnRight()
+      mv.turnRight()
+    end
+  end
+  if h < height then
+    mv.moveDown()
+  end
+end
+
+bpFile = fs.open(bpFilename, "w")
+bpFile.write(textutils.serialise(blueprint))
+bpFile.close()
+
+mv.faceDirection(directions.BACK)
+while mv.getLocDelta().y ~= 0 do
+  mv.moveForward()
+end
+mv.turnRight()
+while mv.getLocDelta().x ~= 0 do
+  mv.moveForward()
+end
+mv.turnRight()
+while mv.getLocDelta().z ~= 0 do
+  mv.moveDown()
+end
+
+--mv.turnRight()
+--mv.turnRight()
