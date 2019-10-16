@@ -1,3 +1,7 @@
+-- This script needs a crafting turtle to work.
+-- It will craft all the flowers in slot 1
+-- And output the petals into slot 2
+
 function dropInventory()
   turtle.select(2)
   turtle.drop()
