@@ -1,3 +1,4 @@
+-- Iterate all the inventory locations to look for a bucket
 function getBucketInv()
   for i=1,16 do
     data = turtle.getItemDetail(i)
