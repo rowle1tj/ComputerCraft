@@ -1,3 +1,4 @@
+-- Builds a stairway to bedrock.  Does all the mining too!
 os.loadAPI("utils/mv")
 
 function mineStep()
