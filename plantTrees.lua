@@ -1,3 +1,6 @@
+-- Plants a whole forrest!  Configurable with 
+-- width, depth, and how much space you want 
+-- between each tree
 local tArgs = { ... }
 if #tArgs < 2 then
   print("Usage: manageGrove <width> <depth> [spacer]")
