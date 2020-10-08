@@ -11,6 +11,8 @@ local width = tonumber(tArgs[1])
 local depth = tonumber(tArgs[2])
 local spacer = 3
 
+-- Checks fuel level.  If its low, grabs a piece of coal from slot 1
+-- and refuels.
 function fuelCheck()
   local fuelLevel = turtle.getFuelLevel()
   if fuelLevel < 20 then
@@ -28,6 +30,7 @@ end
 
 function chopTree()
   local success, data = turtle.inspect()
+  -- Waits for the tree to grow
   while not success do
     success, data = turtle.inspect()
   end
