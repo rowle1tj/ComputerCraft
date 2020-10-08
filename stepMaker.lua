@@ -23,6 +23,7 @@ function stairUp()
   mv.moveUp()
 end
 
+-- Mines down to bedrock
 result, deets = turtle.inspectDown()
 while deets.name ~= "minecraft:bedrock" do
   mineStep()
