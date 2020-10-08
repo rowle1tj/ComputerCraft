@@ -1,3 +1,4 @@
+-- Places delicious cakess
 function findInventorySlot()
   for i=1,16 do
     if turtle.getItemCount(i) > 0 then
